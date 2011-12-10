@@ -1,0 +1,8 @@
+Podcast downloader is a tool for automatic download of podcast feeds formated with "Media RSS" and itunes podcasts dtd.
+
+The tool was written to download podcasts from LBC (lbc.co.uk) and includes some custom logic to reformat file name, which 
+will need to be changed to adapt the tool to other providers. But with 2.5h of James O'Brien (http://www.lbc.co.uk/james-obrien-3537) 
+a day who needs other podcasts?
+
+Tested with feed defined as:
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
